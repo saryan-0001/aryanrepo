@@ -1,3 +1,3 @@
-# aryanrepo
+# aryan
 my first repository
-iauther name-aryan saini
+auther name-aryan saini
